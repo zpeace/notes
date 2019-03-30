@@ -43,7 +43,8 @@ doc = db.prizes.find_one({})
 
 - access database names
 - access collection names
-
+- `count_documents({})`
+- use filter for specific or range comaprison
 
 
 

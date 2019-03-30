@@ -147,7 +147,7 @@ RDD.coalesce(1).saveAsTextFile("tempFile")
 ### PySpark DataFrames
 - Immutable distributed collection of data with named columns
 - Designed for structured (relational database) and semi-structured data (JSON)
-- Dataframe API is available in Python, r, Scala, and Java
+- Dataframe API is available in Python, R, Scala, and Java
 - Dataframe in PySpark support both SQL query(`SELECT * FROM table`) or expression methods (`df.select()`)
 
 
