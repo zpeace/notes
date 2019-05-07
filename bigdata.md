@@ -275,6 +275,25 @@ HashingTF()
 
 
 
+### Relational database
+- tables contain columns and rows and can be related to each other
+- engine provides interface
+- connection string contains details required to find the database
+- reflection reads database and builds table objects
+
+- order by many, by desc
+- count, sum, group by, lable
+- dataframe
+
+- math operators
+- case, cast
+- fetchmany
+
+- create database 
+
+
+
+
 
 
 
