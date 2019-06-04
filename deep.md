@@ -33,6 +33,20 @@
 
 - end-to-end deep learning
 
+- convolutional neural networks
+- edge detector
+- padding
+- 
+
+
+### Naive Bayes
+- extremely fast
+- used for multi-condition probability
+
+
+
+
+
 
 
 
