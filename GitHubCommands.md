@@ -43,3 +43,8 @@ touch .gitignore
 
 
 
+
+- git is a Persistent map at its core
+- SHA1s are unique in the universe
+
+
